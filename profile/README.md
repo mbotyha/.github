@@ -20,7 +20,7 @@ Cryptomator and Seafile for files and private repos and Nuxt Content Assets for 
 
 <!--more--> 
 
-<LEGACY>
+**LEGACY Brand ARA.PEAHA.AI is now MBOTYHA and obsolete Stack**
   
 # Ára Pe'aha Aĩ
 
