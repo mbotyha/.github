@@ -1,5 +1,3 @@
----
-
 **All repos including MIT ones are temporarly private while i reorg the team**  
 
 _Probably tohse repo will remain all private and most suitable repo will be created for the different (CE) Community EditionS_
