@@ -1,3 +1,29 @@
+---
+
+**All repos including MIT ones are temporarly private while i reorg the team**  
+
+_Probably tohse repo will remain all private and most suitable repo will be created for the different (CE) Community EditionS_
+
+---
+
+We build an AI-driven, blockchain-assisted ecosystem for international sales—from informal microentrepreneurs to mid-sized LatAm businesses. Our first verticals are Paraguayan social commerce expanding across LatAm and property developers targeting foreign investors.
+
+Payments settle on Bitcoin. USDT runs on Bitcoin via RGB first, with Arkade next for instant payments and 2-of-3 escrow. Fiat and stablecoins on other chains stay available as optional rails. The buyer can also be an AI agent: our checkouts and payout rails speak HTTP 402 (L402 over Lightning, x402 for stablecoins), with no checkout page and no human in the loop.
+
+A self-custodial BTC and  (RGB/Spark) stablecoin wallet and a version-controlled knowledge graph orchestrate modular payment rails, AI agents, and self-evolving skills. Every decision and document is signed and timestamped on Bitcoin with OpenTimestamps. The core and most plugins are MIT-licensed. The cloud platform and selected plugins are proprietary.
+
+We build on top of well-maintained open-source software:
+Tether WDK, USDB on Spark, RGB and BTCPay Greenfield API for `/pay`.  
+Pi Coding Agent, Vercel AI SDK, Markdown Self-Improving Skills, and System One model—discriminative AI for `/ai`.
+Nuxt Content, NuxtMDC, a customized version of Graphify for long-term and privacy-oriented contexts for the team and the agents.
+Cryptomator and Seafile for files and private repos and Nuxt Content Assets for `/space`.
+
+---
+
+<!--more--> 
+
+<LEGACY>
+  
 # Ára Pe'aha Aĩ
 
 **One key. Your money, your knowledge, your AI.**
